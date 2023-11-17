@@ -1,0 +1,4 @@
+name: PetTheShirley
+version: '${project.version}'
+main: com.kevin.pettheshirley.PetTheShirley
+api-version: 1.19
